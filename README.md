@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,c,java
 
   
-- 😄 Pronouns: she? her
+- 😄 Pronouns: she/ her
   
 
 <!---
