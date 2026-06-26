@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anushka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=B.Tech+IT+Student+%40+VESIT;Building+AI+%2B+FinTech+for+Accessibility;Currently%3A+ArthSaathi+%40+KakushIN+10.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=480&lines=B.Tech+IT+Student+%40+VESIT; alt="Typing SVG" />
 </p>
 
 <p align="center">
