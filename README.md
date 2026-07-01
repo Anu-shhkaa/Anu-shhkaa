@@ -55,16 +55,16 @@
 ### 🚀 Featured Projects
 
 **[MatchPoint](https://github.com/Anu-shhkaa/MatchPoint)** — Live college sports platform
-Full-stack app for real-time scores with role-based access control and a secure JWT-authenticated admin panel.
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
+Real-time score updates via Socket.io, role-based access control (superadmin/admin/scorer), schema-validated Excel bulk import, JWT auth.
+`React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
 
-**[Family Expense Tracker](https://github.com/Anu-shhkaa/family-tracker-app)** — Cross-platform expense management app
-Flutter app with a Node/Express backend deployed on Render, actively used by 4 family members for real-time tracking.
-`Flutter` `Node.js` `Express.js` `MongoDB` `Render`
+**Email Intelligence Agent** *(local)* — Agentic email management pipeline
+Custom-trained BiLSTM classifies Gmail into 5 categories (200+ emails, 2.6× random baseline), auto-schedules deadlines to Google Calendar, natural language queries via Groq Llama 3.1.
+`Python` `PyTorch` `Gmail API` `Google Calendar API` `Groq API` `Streamlit`
 
-**[RehabFlow](https://github.com/Shantanupawar29/RehabFlow)** — Physiotherapist clinic website *(collab)*
-Full-stack appointment booking system with availability checks, confirmations, and session history.
-`React` `Node.js` `Express.js` `MongoDB`
+**[RehabFlow](https://github.com/Anu-shhkaa/RehabFlow)** — Physiotherapist clinic booking system
+Appointment booking with conflict-checking, bcrypt auth, HTML email confirmations via Nodemailer
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `bcrypt``
 
 
 ---
